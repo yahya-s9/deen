@@ -4,13 +4,13 @@ My notes following Yasir Qadhi's [Seerah of Prophet Muhammed (S)](https://www.yo
 
 A handwritten note PDF will be added here for each episode as I go through the series.
 
-| Episode | Title |
-|---|---|
-| 1 | Specialities of Prophet Muhammed |
-| 2 | Specialities of Prophet Muhammed Part 2 |
-| 3 | Why study the Seerah? & Pre-Islamic Arabia |
-| 4 | Religious status of the world before Islam |
-| 5 | Genealogy & Year of the Elephant |
+| Episode | Title | Notes |
+|---|---|---|
+| 1 | Specialities of Prophet Muhammed | [PDF](<YQ 1_ Shama2il.pdf>) |
+| 2 | Specialities of Prophet Muhammed Part 2 | [PDF](<YQ 2_ appearance.pdf>) |
+| 3 | Why study the Seerah? & Pre-Islamic Arabia | [PDF](<YQ 3_ what is seerah?.pdf>) |
+| 4 | Religious status of the world before Islam | [PDF](<YQ 4_ pre islamic Arabia.pdf>) |
+| 5 | Genealogy & Year of the Elephant | [PDF](<YQ 5_ genealogy and year of elephant.pdf>) |
 | 6 | The Birth of Prophet Muhammed & Why Arabia? |
 | 7 | The early childhood of Prophet Muhammed |
 | 8 | The early manhood of Prophet Muhammed |
